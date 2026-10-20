@@ -1,28 +1,40 @@
-# Hola, soy Alex 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Kexe: custom software and AI automation" width="100%">
+</p>
 
-Desarrollador full-stack y fundador de **Kexe**, estudio de software a la medida en Guadalajara, México.
+# Hi, I'm Alex 👋
 
-Llevo más de 14 años en software. Empecé como desarrollador y hoy construyo sistemas para pequeños negocios y startups: más de 50 proyectos entregados.
+Full-stack developer and founder of **Kexe**, a custom software studio in Guadalajara, Mexico.
 
-## Qué hago
+I have 14+ years in software. I started as a developer, and today I build systems for small businesses and startups: 50+ projects delivered.
 
-- Software a la medida: ERP, portales, tiendas en línea y apps móviles
-- Automatización con IA: n8n, agentes y LLMs, APIs y webhooks
-- Dashboards y reportes para tomar decisiones
+## What I do
 
-## Stack
+- Custom software: ERP, portals, online stores and mobile apps
+- AI automation: n8n, agents and LLMs, APIs and webhooks
+- Dashboards and reports to make better decisions
+
+## Selected work
+
+<p align="center">
+  <img src="assets/work.svg" alt="Selected client projects: ERP + POS, WhatsApp AI bots, clinic platform, custom ERP, mobile app with AI quotes, B2B portal" width="100%">
+</p>
+
+Client projects are private for confidentiality. The cards above are short descriptions without client data.
+
+## Tech stack
 
 .NET · C# · Python · PHP / Laravel · JavaScript / React · Flutter / Dart · Azure · Docker
 
-## Proyectos públicos
+## Public projects
 
-- [realtime-msg-signal-dotnet-react-sample](https://github.com/KexeMx/realtime-msg-signal-dotnet-react-sample): .NET 8 + React desplegado en Google Cloud (Docker) vs un VPS, comparando rendimiento, configuración y costo
-- [Manos-limpias](https://github.com/KexeMx/Manos-limpias): app web de realidad aumentada que detecta tus manos con la cámara
-- [AgileMentor](https://github.com/KexeMx/AgileMentor): material de referencia para agilistas
+- [realtime-msg-signal-dotnet-react-sample](https://github.com/KexeMx/realtime-msg-signal-dotnet-react-sample): .NET 8 + React deployed on Google Cloud (Docker) vs a VPS, comparing performance, setup and cost
+- [Manos-limpias](https://github.com/KexeMx/Manos-limpias): augmented reality web app that detects your hands with the camera
+- [AgileMentor](https://github.com/KexeMx/AgileMentor): reference material for modern agile teams
 
-Los proyectos que hago para clientes son privados por confidencialidad. Puedo platicar de ellos y mostrarte casos en mi sitio.
+## Work with me
 
-## Contacto
+Open to remote freelance projects. Languages: Spanish (native) and English (intermediate).
 
-- Sitio: [kexe.mx](https://kexe.mx)
+- Website: [kexe.mx](https://kexe.mx)
 - LinkedIn: [alexramosal](https://www.linkedin.com/in/alexramosal)
