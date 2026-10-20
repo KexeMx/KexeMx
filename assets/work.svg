@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-label="Selected work by Kexe">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#150d33"/><stop offset="1" stop-color="#2b1b66"/></linearGradient></defs>
+<rect width="1200" height="540" rx="18" fill="url(#g)"/>
+<text x="30" y="56" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Selected work</text>
+<text x="30" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#c9c0f0">Client projects (details kept private)</text>
+<rect x="30" y="96" width="372" height="200" rx="14" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="30" y="96" width="372" height="6" rx="3" fill="#ff8a3d"/>
+<text x="52" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Multichannel ERP + POS</text>
+<text x="52" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">Inventory, purchasing, invoicing</text>
+<text x="52" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">and point of sale in one system,</text>
+<text x="52" y="230" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">with marketplace channels.</text>
+<rect x="52" y="244" width="162" height="30" rx="15" fill="#ff8a3d" fill-opacity="0.25"/>
+<text x="64" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">ERP · POS · CFDI</text>
+<rect x="424" y="96" width="372" height="200" rx="14" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="424" y="96" width="372" height="6" rx="3" fill="#7c5cff"/>
+<text x="446" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">WhatsApp AI bots + store</text>
+<text x="446" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">Customer-service bots powered by</text>
+<text x="446" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">AI, connected to an online</text>
+<text x="446" y="230" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">store.</text>
+<rect x="446" y="244" width="265" height="30" rx="15" fill="#7c5cff" fill-opacity="0.25"/>
+<text x="458" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">WhatsApp · LLMs · E-commerce</text>
+<rect x="818" y="96" width="372" height="200" rx="14" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="818" y="96" width="372" height="6" rx="3" fill="#22c1a5"/>
+<text x="840" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Clinic platform</text>
+<text x="840" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">Web platform to run the daily</text>
+<text x="840" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">work of a university clinic.</text>
+<rect x="840" y="244" width="127" height="30" rx="15" fill="#22c1a5" fill-opacity="0.25"/>
+<text x="852" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">Web platform</text>
+<rect x="30" y="318" width="372" height="200" rx="14" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="30" y="318" width="372" height="6" rx="3" fill="#ff8a3d"/>
+<text x="52" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Custom ERP</text>
+<text x="52" y="404" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">ERP to manage operations and</text>
+<text x="52" y="428" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">inventory for a growing</text>
+<text x="52" y="452" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">business.</text>
+<rect x="52" y="466" width="162" height="30" rx="15" fill="#ff8a3d" fill-opacity="0.25"/>
+<text x="64" y="486" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">ERP · Operations</text>
+<rect x="424" y="318" width="372" height="200" rx="14" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="424" y="318" width="372" height="6" rx="3" fill="#7c5cff"/>
+<text x="446" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Mobile app + AI quotes</text>
+<text x="446" y="404" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">Mobile app with an AI-powered</text>
+<text x="446" y="428" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">quote calculator for customers.</text>
+<rect x="446" y="466" width="119" height="30" rx="15" fill="#7c5cff" fill-opacity="0.25"/>
+<text x="458" y="486" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">Mobile · AI</text>
+<rect x="818" y="318" width="372" height="200" rx="14" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="818" y="318" width="372" height="6" rx="3" fill="#22c1a5"/>
+<text x="840" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">B2B ordering portal</text>
+<text x="840" y="404" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">Portal where business customers</text>
+<text x="840" y="428" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#d9d3f5">place and track orders online.</text>
+<rect x="840" y="466" width="101" height="30" rx="15" fill="#22c1a5" fill-opacity="0.25"/>
+<text x="852" y="486" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ffffff">Web · B2B</text>
+</svg>
